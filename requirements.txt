@@ -1,0 +1,5 @@
+chess==0.31.1
+pandas==2.1.4
+numpy==1.26.4
+tensorflow==2.17.0
+torch==2.4.0
